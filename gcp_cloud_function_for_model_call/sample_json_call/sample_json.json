@@ -1,0 +1,7 @@
+{
+    "projectid":"487481675630",
+    "endpoint_id":"1525858256562421760",
+    "instance_dict":{"instances": [
+    {"gender": "1",  "age": "74", "hypertension": "1", "heart_disease": "1", "ever_married": "1", "work_type": "2", "avg_glucose_level": "234", "bmi_impute_mode": "34", "smoking_status": "2"}
+]}
+}
