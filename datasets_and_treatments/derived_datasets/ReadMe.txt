@@ -121,3 +121,7 @@ Data3-3: Treatments done on dataset 5k_stroke-data.csv
 6-Oversampling of stroke positive entries
 	-Stroke=1 oversampled using SMOTE and concatenated with the original database
 7-File saved as Data3-3_treated.csv
+
+--x--x--x--x--x--x--
+
+Data3-3_treated.csv was finally used to train a Machine Learning Classification Model, which has been used to build the web application: https://bit.ly/ml-stroke-predictor-sahil
